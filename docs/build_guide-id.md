@@ -20,6 +20,7 @@ Komponen yang dibutuhkan untuk merakit PCB Rubi adalah sebagai berikut:
 - 1x Layar OLED 0.91in 128x32
 - 1x Rotary Encoder EC11
 - 17x Switch MX
+- 3x 2U Stabilizer PCB Mount (Screw-in/Clip-in)
 - (Opsional) 17x Kailh/Gateron Hotswap Socket
 
 ### Langkah Perakitan
@@ -97,6 +98,11 @@ Letakkan rotary encoder sesuai dengan posisi pin pada PCB. Kemudian solder setia
 pin pada rotary encoder. Jika diperlukan, Anda dapat juga menyolder kaki rotary
 encoder yaitu yang terletak pada sebelah kiri dan kanan rotary encoder. Hal ini
 dapat memperkuat posisi rotary encoder pada PCB agar tidak mudah lepas.
+
+#### Stabilizer
+
+Langkah selanjutnya adalah memasang stabilizer. Pasang stabilizer pada lubang
+yang telah tersedia pada PCB.
 
 #### Switch
 
